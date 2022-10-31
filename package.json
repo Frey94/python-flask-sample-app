@@ -1,0 +1,22 @@
+{
+  "name": "@frey94/python-flask-sample-app",
+  "version": "1.0.0",
+  "description": "![Flask plus Codefresh](docker-flask-codefresh.jpg)",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Frey94/python-flask-sample-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Frey94/python-flask-sample-app/issues"
+  },
+  "homepage": "https://github.com/Frey94/python-flask-sample-app#readme"
+}
