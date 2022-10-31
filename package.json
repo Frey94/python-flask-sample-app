@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/Frey94/python-flask-sample-app/issues"
   },
-  "homepage": "https://github.com/Frey94/python-flask-sample-app#readme"
+  "homepage": "https://github.com/Frey94/python-flask-sample-app#readme",
+  "publishConfig": {
+    "@Frey94:registry": "https://npm.pkg.github.com"
+  }
 }
